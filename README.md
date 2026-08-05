@@ -54,3 +54,16 @@ The dashboard provides actionable insights into employee demographics, attrition
 - Dynamic Department & Age Group Filters
 - Clean and Responsive Dashboard Design
   
+---
+
+## 📊 Business Questions Answered
+
+- Which departments have the highest employee attrition?
+- Which salary slab experiences the highest employee turnover?
+- Which job roles have the highest attrition rate?
+- How does job satisfaction affect employee attrition?
+- What is the gender-wise attrition distribution?
+- Which age groups have the highest employee count?
+- How does employee experience impact attrition?
+- Which departments have the largest workforce?
+
