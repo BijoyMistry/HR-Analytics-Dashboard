@@ -105,4 +105,45 @@ The dashboard provides actionable insights into employee demographics, attrition
 - Data Visualization
 - Business Storytelling
 
-  
+---
+
+## 📁 Repository Structure
+
+```text
+HR-Analytics-Dashboard/
+│
+├── Data/
+├── Documentation/
+├── EXCEL/
+├── Images/
+├── PowerBI/
+├── READme/
+│
+├── HRAnalytics.pbix
+├── HRAnalytics.png
+├── HR-Analytics-Demo.gif
+├── HR-Analytics-Case_Study.pdf
+└── README.md
+```
+
+---
+
+## 🚀 How to Use
+
+1. Download or clone this repository.
+2. Open **HRAnalytics.pbix** using Microsoft Power BI Desktop.
+3. Explore the interactive dashboard using the available filters and slicers.
+4. Review the project documentation and case study for detailed business insights.
+5. Analyze the dashboard to understand employee attrition, workforce demographics, salary distribution, and departmental performance.
+
+---
+
+## 🔮 Future Enhancements
+
+- Integrate real-time HR data sources.
+- Add predictive attrition analysis using Machine Learning.
+- Enhance workforce forecasting with trend analysis.
+- Include employee performance and training analytics.
+- Publish the dashboard using Power BI Service for online access.
+
+
