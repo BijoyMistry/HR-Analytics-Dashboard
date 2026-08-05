@@ -90,4 +90,19 @@ The dashboard provides actionable insights into employee demographics, attrition
 - Focus on retention programs for high-performing employees.
 - Use dashboard insights to support data-driven HR decision-making.
 
+---
+
+## 🛠 Skills Demonstrated
+
+- Data Cleaning & Transformation
+- Data Modeling
+- Power Query
+- DAX Measures & Calculated Columns
+- Interactive Dashboard Design
+- HR Data Analysis
+- KPI Development
+- Business Intelligence Reporting
+- Data Visualization
+- Business Storytelling
+
   
