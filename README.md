@@ -79,3 +79,15 @@ The dashboard provides actionable insights into employee demographics, attrition
 - Workforce distribution varies across different age groups and departments.
 - The dashboard enables HR managers to identify high-risk employee segments for proactive retention strategies.
 
+---
+
+## 💡 Business Recommendations
+
+- Improve employee engagement initiatives in high-attrition departments.
+- Review compensation strategies for lower salary bands.
+- Conduct regular employee satisfaction surveys.
+- Strengthen career development and internal promotion opportunities.
+- Focus on retention programs for high-performing employees.
+- Use dashboard insights to support data-driven HR decision-making.
+
+  
