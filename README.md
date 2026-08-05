@@ -67,3 +67,15 @@ The dashboard provides actionable insights into employee demographics, attrition
 - How does employee experience impact attrition?
 - Which departments have the largest workforce?
 
+---
+
+## 📈 Key Insights
+
+- Overall employee attrition rate is **13.9%**.
+- Total workforce consists of approximately **2,500 employees**.
+- Employees with lower salaries show higher attrition.
+- Certain departments contribute more significantly to employee turnover.
+- Employee satisfaction has a strong relationship with attrition.
+- Workforce distribution varies across different age groups and departments.
+- The dashboard enables HR managers to identify high-risk employee segments for proactive retention strategies.
+
