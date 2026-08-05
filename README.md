@@ -35,6 +35,22 @@ Visualizations : 10+
 
 ## Project Overview
 
+---
+
+## ✨ Key Features
+
+- Interactive HR Analytics Dashboard
+- Employee Attrition Analysis
+- Department-wise Workforce Distribution
+- Salary Slab Attrition Analysis
+- Job Role & Satisfaction Matrix
+- Gender-wise Attrition Analysis
+- Age Group Distribution
+- Employee Experience Trend Analysis
+- Dynamic Department & Age Group Filters
+- Clean and Responsive Dashboard Design
+  
+
 This HR Analytics Dashboard was built to help HR teams analyze employee data, workforce trends, attrition, and overall organizational performance.
 
 The dashboard provides actionable insights into employee demographics, attrition rate, department-wise distribution, job roles, salary trends, and workforce diversity, enabling HR professionals to make data-driven decisions.
