@@ -21,15 +21,15 @@
 ![Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge)
 ![DAX](https://img.shields.io/badge/DAX-0078D4?style=for-the-badge)
 
-Dataset Size : XXXX Employees
+Dataset Size : 2,500 Employees
 
 Tools Used : Power BI | SQL | Excel | DAX
 
 Dashboard Pages : 1
 
-KPIs : XX
+KPIs : 6
 
-Visualizations : XX
+Visualizations : 10+
 
 ---
 
